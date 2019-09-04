@@ -1,5 +1,13 @@
 ---
+# Application 1
+
 instance_name: app1
 group: apps
-deployment: dev
-security_group_name: app_servers
+deployment: QA
+security_group_name: apps
+
+
+#instance_name: app1
+#group: apps
+#deployment: dev
+#security_group_name: app_servers
